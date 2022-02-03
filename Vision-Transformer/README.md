@@ -27,6 +27,11 @@ python experiment.py ##set max possible batch size from config
 ```bash
 sh test.sh or python test.py --dataset Synapse --cfg configs/swin_tiny_patch4_window7_224_lite.yaml --is_saveni --volume_path your DATA_DIR --output_dir your OUT_DIR --max_epoch 150 --base_lr 0.05 --img_size 224 --batch_size 24
 ```
+## Results
+<div align="center">
+  <img width="40%" alt="Model generated mask1" src="https://github.com/rudsamn/Crack-Detection-CVIG-2021/blob/main/Vision-Transformer/assets/crack%201.jpg">
+  <img width="40%" alt="Model generated mask2" src="https://github.com/rudsamn/Crack-Detection-CVIG-2021/blob/main/Vision-Transformer/assets/crack2.jpg">
+</div>  
 
 ## References
 * [TransUnet](https://github.com/Beckschen/TransUNet)
