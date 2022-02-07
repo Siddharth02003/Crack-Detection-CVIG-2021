@@ -1,8 +1,7 @@
 #testing
 # UNet: semantic segmentation with PyTorch
 
-[![xscode](https://drive.google.com/file/d/1CYBtrj8uO9j1qiK6PEMlBrbaYiAHps7X/view?usp=sharing)]
-
+![noisy_image](https://drive.google.com/file/d/1CYBtrj8uO9j1qiK6PEMlBrbaYiAHps7X/view?usp=sharing)
 
 ![input and output for a random image in the test dataset](https://drive.google.com/file/d/1CYBtrj8uO9j1qiK6PEMlBrbaYiAHps7X/view?usp=sharing)
 
