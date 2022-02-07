@@ -4,7 +4,7 @@
 [![xscode](https://drive.google.com/file/d/1CYBtrj8uO9j1qiK6PEMlBrbaYiAHps7X/view?usp=sharing)]
 
 
-![input and output for a random image in the test dataset](https://i.imgur.com/GD8FcB7.png)
+![input and output for a random image in the test dataset](https://drive.google.com/file/d/1CYBtrj8uO9j1qiK6PEMlBrbaYiAHps7X/view?usp=sharing)
 
 
 Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from high definition images.
