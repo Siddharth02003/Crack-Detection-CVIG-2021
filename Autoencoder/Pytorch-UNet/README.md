@@ -1,10 +1,11 @@
 #testing
 # UNet: semantic segmentation with PyTorch
 
-![noisy_image](https://github.com/wigglytuff-tu/Crack-Detection-CVIG-2021/blob/main/assets/denoised1.jpg)
+![noisy_image](https://github.com/wigglytuff-tu/Crack-Detection-CVIG-2021/blob/main/assets/noisy.png)
+Noisy image
 
-![denoised_image](https://github.com/wigglytuff-tu/Crack-Detection-CVIG-2021/blob/main/assets/noisy1.png)
-
+![denoised_image](https://github.com/wigglytuff-tu/Crack-Detection-CVIG-2021/blob/main/assets/denoised1.jpg)
+And after denoising
 
 Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for feature extraction
 
