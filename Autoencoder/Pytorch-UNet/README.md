@@ -7,11 +7,9 @@
 ![input and output for a random image in the test dataset](https://drive.google.com/file/d/1CYBtrj8uO9j1qiK6PEMlBrbaYiAHps7X/view?usp=sharing)
 
 
-Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from high definition images.
+Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for feature extraction
 
-This model was trained from scratch with 5000 images (no data augmentation) and scored a [dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient) of 0.988423 (511 out of 735) on over 100k test images. This score could be improved with more training, data augmentation, fine tuning, playing with CRF post-processing, and applying more weights on the edges of the masks.
-
-The Carvana data is available on the [Kaggle website](https://www.kaggle.com/c/carvana-image-masking-challenge/data).
+This model was trained from scratch with 11000 images (no data augmentation) and scored a [f1_score](https://en.wikipedia.org/wiki/F-score) of 0.6847. This score could be improved with more training, data augmentation, fine tuning, using pre-trained models, and applying more weights on the edges of the masks.
 
 ## Usage
 **Note : Use Python 3.6 or newer**
