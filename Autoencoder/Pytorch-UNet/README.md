@@ -93,8 +93,6 @@ You can visualize in real time the train and test losses, the weights and gradie
 
 `tensorboard --logdir=runs`
 
-You can find a reference training run with the Caravana dataset on [TensorBoard.dev](https://tensorboard.dev/experiment/1m1Ql50MSJixCbG1m9EcDQ/#scalars&_smoothingWeight=0.6) (only scalars are shown currently).
-
 ## Notes on memory
 
 The model has be trained from scratch on a GTX970M 3GB.
