@@ -3,7 +3,7 @@
 
 ![noisy_image](https://github.com/wigglytuff-tu/Crack-Detection-CVIG-2021/blob/main/assets/denoised1.jpg)
 
-![input and output for a random image in the test dataset](https://github.com/wigglytuff-tu/Crack-Detection-CVIG-2021/blob/main/assets/noisy1.jpg)
+![denoised_image](https://github.com/wigglytuff-tu/Crack-Detection-CVIG-2021/blob/main/assets/noisy1.png)
 
 
 Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for feature extraction
